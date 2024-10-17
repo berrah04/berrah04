@@ -12,7 +12,6 @@ This is a repository to showcase skills, share projects and track my progress in
 
 
 ## Table of Contents
-- [About](https://github.com/berrah04/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects]
   - Python
     
@@ -21,8 +20,6 @@ This is a repository to showcase skills, share projects and track my progress in
       
   - SQL
     - [Covid 19 Data Exploration]
-
-
 
 
 ## Contacts
